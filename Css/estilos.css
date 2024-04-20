@@ -6,6 +6,7 @@ header img{
 footer{
     text-align: center;
     background-color: #0DCAF0;
+    clear: both;
 }
 
 #tablaN img{
@@ -18,3 +19,26 @@ footer{
     height: 300px;
 }
 
+
+#promoG img{
+    width: 250px;
+    height: 300px;
+}
+
+
+#cant {
+    margin-left: auto;
+}
+
+#cant2 {
+    margin-left: auto;
+}
+
+#prod{
+    float: left;
+}
+
+#prod img{
+    width: 350px;
+    height: 150px;
+}
